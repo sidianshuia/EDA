@@ -1,2 +1,2 @@
-# lingshicunchu
-static library for Android (.a)
+# EDA
+Exploratory Data Analysis
